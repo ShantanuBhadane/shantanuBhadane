@@ -12,11 +12,13 @@
 
 - 🖐Hi there!, I'm Shantanu Bhadane.
 
+- 🙋‍♂️ All about me is at [www.shantanubhadane.com](https://shantanubhadane.github.io/Portfolio/)
+
 - 📖 I’m student of B.E in Computer Science.
 
 - 👨‍💻  I'm currently improving my web development skills through academic and personal projects.
 
-- 💻 Creating dynamic, interactive websites for clients.
+- 💻 Creating dynamic, interactive websites.
 
 - 🚀 Exploring the exciting possibilities of `Web 3.0`.
 

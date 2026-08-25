@@ -119,10 +119,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&style=italic&size=18&duration=3500&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hey%2C+glad+you%27re+here!;%F0%9F%92%BB+Crafting+Modern+Web+Experiences;%F0%9F%9A%80+Building+With+MERN+%7C+Learning+Every+Day;%E2%9C%A8+Turning+Ideas+Into+Real+Projects;%F0%9F%94%A5+Code.+Create.+Improve.+Repeat." alt="Typing animation" />
 </p>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/ShantanuBhadane/ShantanuBhadane/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShantanuBhadane/ShantanuBhadane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShantanuBhadane/ShantanuBhadane/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ShantanuBhadane/ShantanuBhadane/output/github-contribution-grid-snake.svg">
+</picture>
